@@ -41,9 +41,9 @@ Functional Requirements:
 
 We will foucus on the core service for Yelp which is search API.
 
-## Basi SQL solution 
+## Basic SQL solution 
 
-Let us firsd solve this for 1 data. Following SQL can give us the desired result.
+Let us first solve this for less number of data. Following SQL can give us the desired result.
 
     Select * from Places where Latitude between X-D and X+D and Longitude between Y-D and Y+D
 
@@ -161,7 +161,7 @@ Neighboring grid needs to be found.
 # Ranking
 How about if we want to rank the search results not just by proximity but also by popularity or relevance?
 
-Get serach result and then sort as per popularity.
+Get search result and then sort as per popularity.
 
 
 
