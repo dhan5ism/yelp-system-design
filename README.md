@@ -77,6 +77,13 @@ And further more to the block 9v
 ![](assets/world3.png)
 
 
+Play time:
+
+https://www.movable-type.co.uk/scripts/geohash.html
+
+http://geohash.co/
+
+https://www.latlong.net/
 
 # Design with Geohash concept
 
@@ -130,7 +137,7 @@ Same concept is used when adding a new point of interest.
 
 Now the world looks like this:
 
-![](assets/quad11.png)
+![](assets/Quad11.png)
 
 Reverse Indexing: We can store the reverse indexing to store all the location falling into a grid.
 
